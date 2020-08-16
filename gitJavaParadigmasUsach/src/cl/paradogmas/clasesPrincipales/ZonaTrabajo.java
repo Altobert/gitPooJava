@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * 
- * @author dev
+ * @author alberto san martin
  * @descripcion : clase que simula las zonas.
  *
  */

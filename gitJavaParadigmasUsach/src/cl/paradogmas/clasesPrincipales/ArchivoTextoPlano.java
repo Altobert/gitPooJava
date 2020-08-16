@@ -4,6 +4,7 @@ import java.util.Date;
 /**
  * 
  * @author Alberto san martin C.
+ * @descripcion : Representa el contenido de un commit
  *
  */
 public class ArchivoTextoPlano {
